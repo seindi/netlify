@@ -3,28 +3,11 @@
     "version": "0.0.0",
     "private": true,
     "scripts": {
-        "start": "bot update vue && node vue.next.js && vue-cli-service serve",
-        "build": "bot update vue && vue-cli-service build && node vue.build.js",
+        "start": "",
+        "build": "",
         "update": "bot update vue",
         "setup": "bot setup vue",
         "watch": "node vue.development.js",
         "preview": "node vue.preview.js"
-    },
-    "public": {
-        "path": "/"
-    },
-    "build": {
-        "dir": "node_packages"
-    },
-    "dependencies": {
-        "vue": "3.2.47",
-        "vue-router": "4.1.6",
-        "vuex": "4.1.0",
-        "vue.min.js": "11.1.0-1"
-    },
-    "devDependencies": {
-        "@vue/cli-plugin-router": "5.0.8",
-        "@vue/cli-plugin-vuex": "5.0.8",
-        "@vue/cli-service": "5.0.8"
     }
 }
