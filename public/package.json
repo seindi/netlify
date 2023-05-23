@@ -1,0 +1,158 @@
+{
+    "router": {
+        "link": {
+            "home:page": {
+                "path": "/"
+            },
+            "page:list": {
+                "path": "/page"
+            },
+            "page:single": {
+                "path": "/page/:id"
+            },
+            "blog:list": {
+                "path": "/blog"
+            },
+            "blog:single": {
+                "path": "/blog/:id"
+            },
+            "blog:single-x": {
+                "path": "/blog/:year/:month/:id"
+            },
+            "product:list": {
+                "path": "/product"
+            },
+            "product:single": {
+                "path": "/product/:id"
+            },
+            "author:list": {
+                "path": "/author"
+            },
+            "author:single": {
+                "path": "/author/:id"
+            },
+            "tag:list": {
+                "path": "/tag"
+            },
+            "tag:single": {
+                "path": "/tag/:id"
+            },
+            "category:list": {
+                "path": "/category"
+            },
+            "category:single": {
+                "path": "/category/:id"
+            },
+            "account:register": {
+                "path": "/cgi-bin/account/register"
+            },
+            "account:login": {
+                "path": "/cgi-bin/account/login"
+            },
+            "account:logout": {
+                "path": "/cgi-bin/account/logout"
+            },
+            "account:profile": {
+                "path": "/cgi-bin/account/profile"
+            }
+        },
+        "slot": [
+            "/",
+            "/about",
+            "/help"
+        ]
+    },
+    "layout": [
+        "layout:slot",
+        "layout:test"
+    ],
+    "component": [
+        "media-player:audio",
+        "media-query:line",
+        "media-query:loading",
+        "media-query:progress",
+        "media-query:screen-splash",
+        "media-query:screen",
+        "redirect",
+        "component:slot"
+    ],
+    "element": [
+        "element:slot"
+    ],
+    "asset": {},
+    "theme": {},
+    "package": {
+        "express": false,
+        "name": "iPerfume™",
+        "description": "",
+        "version": "0.0.0",
+        "url": "",
+        "email": "",
+        "theme": {
+            "id": "",
+            "name": "default",
+            "description": "",
+            "version": "0.0.0",
+            "author": "",
+            "url": "",
+            "email": ""
+        },
+        "body": {
+            "font": "google",
+            "theme": "regular"
+        },
+        "date": {},
+        "time": {
+            "zone": "asia/jakarta"
+        },
+        "plugin": {
+            "google": {
+                "map": {
+                    "key": "AIzaSyBWseYYS5dVZ0QWynk-anGyGtHPwnsjFFM"
+                }
+            }
+        },
+        "fire:base": {
+            "driver": "io",
+            "engine": {
+                "google": {
+                    "id": "1:133744414802:web:059a49e8c940cc33c9cf8b",
+                    "key": "AIzaSyB-kqJRZ0ejmaa6Y4ZFOdppRzgs-Q7530I",
+                    "messaging": "133744414802",
+                    "project": "i-perfume",
+                    "domain": "i-perfume.firebaseapp.com",
+                    "bucket": "i-perfume.appspot.com"
+                },
+                "io": {
+                    "url": "https://host.iperfume.id/v1",
+                    "project": "64678eb9179839359dd5",
+                    "db": "64678f43c3fd28777fc6",
+                    "key": "",
+                    "collection": {
+                        "account": "646890685f0951e0ecda",
+                        "user": "64689060e0899e61b8f5",
+                        "profile": "6468905b783319210ff6",
+                        "document": "646890539deb5a8d2aa4",
+                        "store": "6468904c05dc8d42645f",
+                        "product": "646890475105ef3e07c5",
+                        "taxonomy": "646890405cd59cd54130",
+                        "category": "64689039c2f6eeeea1c6",
+                        "topic": "646890340c846b208975",
+                        "tag": "6468902d6a9ca72cd576",
+                        "link": "646890278646bd6b0983",
+                        "comment": "646890201c073b6a0a5b",
+                        "journal": "64689018c2225590839b",
+                        "transaction": "6468901245e3d20097c3",
+                        "log": "6468900b4f0185ff6947",
+                        "service": "64688f706d0eabf85ccf",
+                        "notification": "64688f690d5062c681aa",
+                        "toast": "64688f5cb9a607013c18",
+                        "map": "64688f5443e69c160211",
+                        "geo_location": "64688f4d4931bef96d25"
+                    }
+                }
+            }
+        },
+        "": ""
+    }
+}

@@ -1,0 +1,75 @@
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+html, body { font-family: var(--font-family); font-size: var(--font-size); color: rgb(var(--font-color)); background-color: rgb(var(--background-color)); }
+div, span, form, button, input, select, option {}
+button, select, input, textarea {}
+a { color: rgb(var(--font-link-color)); } .font-link { color: rgb(var(--font-link-color)); } .font-pop-link { color: rgb(var(--font-pop-link-color)); }
+a:hover { color: rgb(var(--font-link-focus-color)); } .font-link:hover { color: rgb(var(--font-link-focus-color)); } .font-pop-link:hover { color: rgb(var(--font-pop-link-focus-color)); }
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background-color: rgba(var(--white), 0); }
+::-webkit-scrollbar-thumb { background-color: rgba(var(--black), 0.2); border-radius: 0px; }
+::-webkit-scrollbar-thumb:hover { background-color: rgba(var(--black), 0.3); }
+:disabled { opacity: 0.55; }
+
+[pixel] {}
+[pixel-view] {}
+[icon] { font-size: var(--font-icon); }
+[emoticon] { font-size: var(--font-emoticon); }
+[string] {}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+.header-height { height: var(--header-height); }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+[template="pop"] { display: none; position: fixed; top: 0px; left: 0px; min-width: 100%; min-height: 100vh; background-color: rgba(var(--background-pop-color), 0.75); z-index: 1000; }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+.transition { transition: all 0.3s ease; }
+.transition-speedy { transition: all 0.1s ease; }
+.transition-fade {} .transition-fade-enter-from { opacity: 0; } .transition-fade-enter-to { opacity: 1; } .transition-fade-enter-active { transition: all 0.3s ease; } .transition-fade-leave-from { opacity: 1; } .transition-fade-leave-to { opacity: 0; } .transition-fade-leave-active { transition: all 0.3s ease; }
+.transition-toast {} .transition-toast-enter-from { opacity: 0; transform: translateY(-60px); } .transition-toast-enter-to { opacity: 1; transform: translateY(0px); } .transition-toast-enter-active { transition: all 0.3s ease; } .transition-toast-leave-from { opacity: 1; } .transition-toast-leave-to { opacity: 0; } .transition-toast-leave-active { transition: all 0.3s ease; }
+.transition-notification {} .transition-notification-enter-from { opacity: 0; transform: translateY(-60px); } .transition-notification-enter-to { opacity: 1; transform: translateY(0px); } .transition-notification-enter-active { transition: all 0.3s ease; } .transition-notification-leave-from { opacity: 1; } .transition-notification-leave-to { opacity: 0; } .transition-notification-leave-active { transition: all 0.3s ease; }
+
+.transition-ease { transition: all 150ms ease-in-out; }
+
+/**
+ * the end
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */

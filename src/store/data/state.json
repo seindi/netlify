@@ -1,0 +1,12 @@
+{
+"data": [],
+"account": [],
+"product": {"list": [], "variant": [], "material": [], "sale": []},
+"store": [],
+"sale": {"data": [], "group": {}, "cache": {"data": [], "size": {}}},
+"transaction": {"list": [], "cache": {"size": {}, "list": []}},
+"transactional": {"list": [], "cache": {"size": {}, "list": []}},
+"snapshot": [],
+"log": [],
+".": []
+}

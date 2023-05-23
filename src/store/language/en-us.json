@@ -1,0 +1,8 @@
+{
+"date-time:month": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+"date-time:day": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+"welcome": "Welcome",
+"loading": "Loading",
+"media-query:screen": "MediaQuery ScreenSize",
+"splash:screen loading": "Loading, please wait ..."
+}

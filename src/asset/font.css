@@ -1,0 +1,126 @@
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+@import url('@/asset/font/dank.css');
+@import url('@/asset/font/google.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100;8..144,200;8..144,300;8..144,400;8..144,500;8..144,600;8..144,700;8..144,800;8..144,900;8..144,1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@200;300;400;500;600;700;900&display=swap');
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+:root {
+	--font-light-ultra: 100;
+	--font-light-medium: 200;
+	--font-light: 300;
+	--font-regular: 400;
+	--font-bold-light: 500;
+	--font-bold-medium: 600;
+	--font-bold: 700;
+	--font-bold-ultra: 800;
+	--font-weight: 900;
+	}
+
+.font-link { color: rgb(var(--font-link-color)); } .font-link:hover { color: rgb(var(--font-link-focus-color)); }
+.font-mono-link { color: rgb(var(--font-mono-link-color)); } .font-mono-link:hover { color: rgb(var(--font-mono-link-focus-color)); }
+.font-pop-link { color: rgb(var(--font-pop-link-color)); } .font-pop-link:hover { color: rgb(var(--font-pop-link-focus-color)); }
+.font-sky-link { color: rgb(var(--font-sky-link-color)); } .font-sky-link:hover { color: rgb(var(--font-sky-link-focus-color)); }
+
+.font-normal { font-style: normal; }
+.font-italic { font-style: italic; }
+.font-light-ultra { font-weight: var(--font-light-ultra); }
+.font-light-medium { font-weight: var(--font-light-media); }
+.font-light { font-weight: var(--font-light); }
+.font-regular { font-weight: var(--font-regular); }
+.font-bold-light { font-weight: var(--font-bold-light); }
+.font-bold-medium { font-weight: var(--font-bold-medium); }
+.font-bold { font-weight: var(--font-bold); }
+.font-bold-ultra { font-weight: var(--font-bold-ultra); }
+.font-weight { font-weight: var(--font-weight); }
+
+.font-size { font-size: var(--font-size); }
+.font-tiny { font-size: var(--font-tiny); }
+.font-small { font-size: var(--font-small); }
+.font-medium { font-size: var(--font-medium); }
+.font-large { font-size: var(--font-large); }
+.font-big { font-size: var(--font-big); }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+.font-family, [font='family'] { font-family: var(--font-family); }
+.font-family-print, [font='family:print'] { font-family: var(--font-family-print); }
+.font-family-code, [font='family:code'] { font-family: var(--font-family-code); }
+.font-family-mono, [font='family:mono'] { font-family: var(--font-family-mono); }
+.font-family-title, [font='family:title'] { font-family: var(--font-family-title); }
+.font-family-description, [font='family:description'] { font-family: var(--font-family-description); }
+.font-family-article, [font='family:article'] { font-family: var(--font-family-article); }
+.font-family-quote, [font='family:quote'] { font-family: var(--font-family-quote); }
+.font-family-error, [font='family:error'] { font-family: var(--font-family-error); }
+.font-family-warning, [font='family:warning'] { font-family: var(--font-family-warning); }
+.font-family-notice, [font='family:notice'] { font-family: var(--font-family-notice); }
+.font-family-logo, [font='family:logo'] { font-family: var(--font-family-logo); }
+
+.font-face, [font='face'] { font-family: var(--font-family); }
+.font-face-google, [font='google'] { font-family: 'Google Sans', var(--font-family); }
+.font-face-google-display, [font='google:display'] { font-family: 'Google Sans Display', var(--font-family); }
+.font-face-google-mono, [font='google:mono'] { font-family: 'Google Sans Mono', var(--font-family); }
+.font-face-google-text, [font='google:text'] { font-family: 'Google Sans Text', var(--font-family); }
+.font-face-roboto, [font='roboto'] { font-family: 'Roboto', var(--font-family); }
+.font-face-roboto-mono, [font='roboto:mono'] { font-family: 'Roboto Mono', var(--font-family); }
+.font-face-roboto-condense, [font='roboto:condense'] { font-family: 'Roboto Condensed', var(--font-family); }
+.font-face-roboto-slab, [font='roboto:slab'] { font-family: 'Roboto Slab', var(--font-family); }
+.font-face-roboto-flex, [font='roboto:flex'] { font-family: 'Roboto Flex', var(--font-family); }
+.font-face-josefin, [font='josefin'] { font-family: 'Josefin Sans', var(--font-family); }
+.font-face-josefin-slab, [font='josefin:slab'] { font-family: 'Josefin Slab', var(--font-family); }
+.font-face-os, [font='os'] { font-family: 'Open Sans', var(--font-family); }
+.font-face-pop, [font='pop'] { font-family: 'Poppins', var(--font-family); }
+.font-face-quick-sand, [font='quick-sand'] { font-family: 'Quicksand', var(--font-family); }
+.font-face-alegreya, [font='alegreya'] { font-family: 'Alegreya', var(--font-family); }
+.font-face-arabic-amiri, [font='arabic:amiri'] { font-family: 'Amiri', var(--font-family); }
+.font-face-arabic-amiri-quran, [font='arabic:amiri-quran'] { font-family: 'Amiri Quran', var(--font-family); }
+.font-face-korea-noto, [font='korea:noto'] { font-family: 'Noto Sans KR', var(--font-family); }
+.font-face-korea-noto-serif, [font='korea:noto-serif'] { font-family: 'Noto Serif KR', var(--font-family); }
+.font-face-dank, [font='dank'] { font-family: 'Dank Mono', var(--font-family); }
+.font-face-dank-mono, [font='dank:mono'] { font-family: 'Dank Mono', var(--font-family); }
+
+/**
+ * the end
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */

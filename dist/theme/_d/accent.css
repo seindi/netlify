@@ -1,0 +1,17 @@
+:root {
+	--black: 17, 17, 17;
+	--white: 255, 255, 255;
+	--gray: 128, 128, 128; --gray-color: 128, 128, 128; --gray-regular: 128, 128, 128; --gray-focus: 128, 128, 128; --gray-pop: 128, 128, 128; --gray-sky: 128, 128, 128; --gray-abyss: 128, 128, 128; --gray-light: 241, 241, 241; --gray-light-medium: 128, 128, 128; --gray-light-ultra: 249, 249, 249;
+	--red: 255, 0, 0; --red-color: 224, 108, 117; --red-regular: 255, 0, 0; --red-focus: 255, 0, 0; --red-pop: 255, 0, 0; --red-sky: 255, 0, 0; --red-abyss: 255, 0, 0; --red-light: 255, 0, 0; --red-light-medium: 255, 0, 0; --red-light-ultra: 255, 0, 0;
+	--green: 0, 128, 0; --green-color: 152, 195, 121; --green-regular: 0, 128, 0; --green-focus: 0, 128, 0; --green-pop: 0, 128, 0; --green-sky: 0, 128, 0; --green-abyss: 0, 128, 0; --green-light: 0, 128, 0; --green-light-medium: 0, 128, 0; --green-light-ultra: 0, 128, 0;
+	--blue: 0, 0, 255; --blue-color: 97, 174, 239; --blue-regular: 0, 0, 255; --blue-focus: 0, 0, 255; --blue-pop: 0, 0, 255; --blue-sky: 0, 0, 255; --blue-abyss: 0, 0, 255; --blue-light: 0, 0, 255; --blue-light-medium: 0, 0, 255; --blue-light-ultra: 0, 0, 255;
+	--yellow: 255, 255, 0; --yellow-color: 229, 192, 123; --yellow-regular: 255, 255, 0; --yellow-focus: 255, 255, 0; --yellow-pop: 255, 255, 0; --yellow-sky: 255, 255, 0; --yellow-abyss: 255, 255, 0; --yellow-light: 255, 255, 0; --yellow-light-medium: 255, 255, 0; --yellow-light-ultra: 255, 255, 0;
+	--orange: 255, 165, 0; --orange-color: 210, 132, 69; --orange-regular: 255, 165, 0; --orange-focus: 255, 165, 0; --orange-pop: 255, 165, 0; --orange-sky: 255, 165, 0; --orange-abyss: 255, 165, 0; --orange-light: 255, 165, 0; --orange-light-medium: 255, 165, 0; --orange-light-ultra: 255, 165, 0;
+	--purple: 128, 0, 128; --purple-color: 198, 120, 221; --purple-regular: 128, 0, 128; --purple-focus: 128, 0, 128; --purple-pop: 128, 0, 128; --purple-sky: 128, 0, 128; --purple-abyss: 128, 0, 128; --purple-light: 128, 0, 128; --purple-light-medium: 128, 0, 128; --purple-light-ultra: 128, 0, 128;
+	--pink: 255, 192, 203; --pink-color: 255, 192, 203; --pink-regular: 255, 192, 203; --pink-focus: 255, 192, 203; --pink-pop: 255, 192, 203; --pink-sky: 255, 192, 203; --pink-abyss: 255, 192, 203; --pink-light: 255, 182, 193; --pink-light-medium: 255, 192, 203; --pink-light-ultra: 255, 192, 203;
+	--cyan: 0, 255, 255; --cyan-color: 117, 181, 170; --cyan-regular: 0, 255, 255; --cyan-focus: 0, 255, 255; --cyan-pop: 0, 255, 255; --cyan-sky: 0, 255, 255; --cyan-abyss: 0, 255, 255; --cyan-light: 0, 255, 255; --cyan-light-medium: 0, 255, 255; --cyan-light-ultra: 0, 255, 255;
+	}
+
+/*
+--accent: accent; --accent-color: accent; --accent-regular: accent; --accent-focus: accent; --accent-pop: accent; --accent-sky: accent; --accent-abyss: accent; --accent-light: accent; --accent-light-medium: accent; --accent-light-ultra: accent;
+*/

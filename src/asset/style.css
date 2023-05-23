@@ -1,0 +1,228 @@
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+*, *::before, *::after { box-sizing: border-box; }
+* { font-size: 100%; margin: 0px; padding: 0px; vertical-align: baseline; -moz-osx-font-smoothing: grayscale; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: 100%; }
+html, body { width: 100%; height: 100%; } html, body { font-family: var(--font-family); font-size: var(--font-size); color: rgb(var(--font-color)); background-color: rgb(var(--background-color)); }
+div, span, form, button, input, select, option { font-family: inherit; font-size: inherit; }
+header, main, menu, nav, section, article, figure, footer { font-family: inherit; font-size: inherit; color: inherit; display: block; }
+button, select, input, textarea { font-family: inherit; font-size: inherit; color: inherit; outline: none; vertical-align: sub; }
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button { -webkit-appearance: none; }
+input[type="number"] { -moz-appearance: textfield; }
+input[type="checkbox"], input[type="radio"] { vertical-align: middle; }
+a { color: rgb(var(--font-link-color)); text-decoration: none; cursor: pointer; } a:hover { color: rgb(var(--font-link-focus-color)); }
+ul { list-style-type: none; } li { list-style: none; }
+img { vertical-align: middle; }
+template { display: none; }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+[pixel] {}
+[pixel-view] {}
+[icon] {}
+[emoticon] {}
+[string] {}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+.in-line { display: inline; }
+.block { display: block; } .block-line { display: inline-block; }
+.table { display: table; } .table-row { display: table-row; } .table-cell, .table-column { display: table-cell; }
+.grid { display: grid; } .flex { display: flex; } .flex-line { display: inline-flex; } .flex-row { flex-direction: column; } .flex-column { flex-direction: row; } .flex-wrap { flex-wrap: wrap; } .flex-grow { flex-grow: 1; }
+
+.absolute { position: absolute; } .relative { position: relative; } .fixed { position: fixed; }
+.visible { visibility: visible; } .hidden { visibility: hidden; } .hide { display: none; visibility: hidden; width: 0; height: 0; } .none { display: none; }
+.opacity { opacity: 1; } .no-opacity { opacity: 0; }
+.overflow { overflow: auto; } .no-overflow { overflow: hidden; }
+.scroll { overflow: scroll; } .scroll-x { overflow-x: scroll; } .scroll-v { overflow-y: scroll; }
+.no-wrap { white-space: nowrap; }
+
+.text-align { text-align: center; } .text-left { text-align: left; } .text-right { text-align: right; } .text-small { text-transform: lowercase; } .text-big { text-transform: uppercase; }
+.align-item { align-items: center; } .align-start { align-items: start; } .align-end { align-items: end; }
+.justify-item { justify-content: center; } .justify-start { justify-content: start; } .justify-end { justify-content: end; } .justify-content { text-align: justify; }
+
+.cursor-pointer { cursor: pointer; }
+.cursor-progress { cursor: progress; }
+
+.pointer-event { pointer-events: all; }
+.no-pointer-event { pointer-events: none; }
+
+.x { width: 100%; } .x-port { width: 100vw; }
+.v { height: 100%; } .v-port { height: 100vh; }
+.view { width: 100vw; height: 100vh; } .view-port { width: 100%; height: 100%; }
+.top { top: 0px; } .top-port { top: 100%; }
+.bottom { bottom: 0px; } .bottom-port { bottom: 100%; }
+.left { left: 0px; } .left-port { left: 100%; }
+.right { right: 0px; } .right-port { right: 100%; }
+
+.in-dex { z-index: -1; }
+.z-index { z-index: 1000000; }
+.index { z-index: 1; }
+.index-regular { z-index: 10; }
+.index-small { z-index: 100; }
+.index-medium { z-index: 1000; }
+.index-large { z-index: 10000; }
+.index-big { z-index: 100000; }
+
+.gap { gap: 10px; } .gap-small { gap: 5px; } .gap-medium { gap: 15px; } .gap-large { gap: 20px; } .gap-big { gap: 25px; }
+
+.padding { padding: 10px; } .padding-small { padding: 5px; } .padding-medium { padding: 15px; } .padding-large { padding: 20px; } .padding-big { padding: 25px; }
+.no-padding-top { padding-top: 0px; } .padding-top { padding-top: 10px; } .padding-top-small { padding-top: 5px; } .padding-top-medium { padding-top: 15px; } .padding-top-large { padding-top: 20px; } .padding-top-big { padding-top: 25px; }
+.no-padding-bottom { padding-bottom: 0px; } .padding-bottom { padding-bottom: 10px; } .padding-bottom-small { padding-bottom: 5px; } .padding-bottom-medium { padding-bottom: 15px; } .padding-bottom-large { padding-bottom: 20px; } .padding-bottom-big { padding-bottom: 25px; }
+.padding-left { padding-left: 10px; } .padding-left-small { padding-left: 5px; } .padding-left-medium { padding-left: 15px; } .padding-left-large { padding-left: 20px; } .padding-left-big { padding-left: 25px; }
+.padding-right { padding-right: 10px; } .padding-right-small { padding-right: 5px; } .padding-right-medium { padding-right: 15px; } .padding-right-large { padding-right: 20px; } .padding-right-big { padding-right: 25px; }
+.padding-x { padding-left: 10px; padding-right: 10px; } .padding-x-small { padding-left: 5px; padding-right: 5px; } .padding-x-medium { padding-left: 15px; padding-right: 15px; } .padding-x-large { padding-left: 20px; padding-right: 20px; } .padding-x-big { padding-left: 25px; padding-right: 25px; }
+.padding-v { padding-top: 10px; padding-bottom: 10px; } .padding-v-small { padding-top: 5px; padding-bottom: 5px; } .padding-v-medium { padding-top: 15px; padding-bottom: 15px; } .padding-v-large { padding-top: 20px; padding-bottom: 20px; } .padding-v-big { padding-top: 25px; padding-bottom: 25px; }
+
+.margin { margin: 10px; } .margin-small { margin: 5px; } .margin-medium { margin: 15px; } .margin-large { margin: 20px; } .margin-big { margin: 25px; }
+.margin-top { margin-top: 10px; } .margin-top-small { margin-top: 5px; } .margin-top-medium { margin-top: 15px; } .margin-top-large { margin-top: 20px; } .margin-top-big { margin-top: 25px; }
+.margin-bottom { margin-bottom: 10px; } .margin-bottom-small { margin-bottom: 5px; } .margin-bottom-medium { margin-bottom: 15px; } .margin-bottom-large { margin-bottom: 20px; } .margin-bottom-big { margin-bottom: 25px; }
+.margin-left { margin-left: 10px; } .margin-left-small { margin-left: 5px; } .margin-left-medium { margin-left: 15px; } .margin-left-large { margin-left: 20px; } .margin-left-big { margin-left: 25px; }
+.margin-right { margin-right: 10px; } .margin-right-small { margin-right: 5px; } .margin-right-medium { margin-right: 15px; } .margin-right-large { margin-right: 20px; } .margin-right-big { margin-right: 25px; }
+.margin-x { margin-left: 10px; margin-right: 10px; } .margin-x-small { margin-left: 5px; margin-right: 5px; } .margin-x-medium { margin-left: 15px; margin-right: 15px; } .margin-x-large { margin-left: 20px; margin-right: 20px; } .margin-x-big { margin-left: 25px; margin-right: 25px; }
+.margin-v { margin-top: 10px; margin-bottom: 10px; } .margin-v-small { margin-top: 5px; margin-bottom: 5px; } .margin-v-medium { margin-top: 15px; margin-bottom: 15px; } .margin-v-large { margin-top: 20px; margin-bottom: 20px; } .margin-v-big { margin-top: 25px; margin-bottom: 25px; }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+.no-border { border: none; }
+.no-border-top { border-top: none; }
+.no-border-bottom { border-bottom: none; }
+.no-border-left { border-left: none; }
+.no-border-right { border-right: none; }
+
+.border-solid-transparent { border: 1px solid transparent; } .border-bottom-solid-transparent { border-bottom: 1px solid transparent; }
+.border-bold-transparent { border: 2px solid transparent; } .border-bottom-bold-transparent { border-bottom: 2px solid transparent; }
+
+.border-radius { border-radius: var(--border-radius); }
+.border-radius-pop { border-radius: var(--border-radius-pop); }
+.border-radius-regular { border-radius: var(--border-radius-regular); }
+.border-radius-round { border-radius: var(--border-radius-round); }
+.border-radius-circle { border-radius: var(--border-radius-circle); }
+
+.box-shadow { box-shadow: 0px 1px 2px 0px rgba(var(--box-shadow), 0.3), 0px 1px 3px 1px rgba(var(--box-shadow), 0.15); }
+.box-pop-shadow { box-shadow: 0px 2px 5px 0px rgba(var(--box-pop-shadow), 0.26), 0px 2px 10px 0px rgba(var(--box-pop-shadow), 0.16); }
+.box-sky-shadow { box-shadow: 0px 2px 5px 0px rgba(var(--box-sky-shadow), 0.26), 0px 2px 10px 0px rgba(var(--box-sky-shadow), 0.16); }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+[template="pop"] {
+	display: none;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	min-width: 100%;
+	min-height: 100vh;
+	background-color: rgba(var(--background-pop-color), 0.75);
+	z-index: 1000000;
+	}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+noscript {}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+[print] { display: none; }
+[id="app:view"] { display: table; width: 100%; height: 100%; }
+[id="app:slot"] { display: table-row; width: 100%; height: 100%; }
+[id="app:print"] { display: none; width: 100%; height: 100%; }
+[id="app:data"] { position: fixed; top: -1000000000px; left: -1000000000px; z-index: -1000000000px; }
+#app { display: table-cell; width: 100%; height: 100%; }
+#application { width: 100%; height: 100%; }
+
+[device="computer"] {}
+[device="mobile"] {}
+[device="tablet"] {}
+[device="phone"] {}
+
+@media only screen and (orientation: landscape) {
+	[device="computer"] {}
+	[device="mobile"] {}
+	[device="tablet"] {}
+	[device="phone"] {}
+	}
+
+@media print {
+	#app { display: none !important; }
+	[id="app:print"] { display: table-cell; }
+	[no-print] { display: none !important; }
+	[print] { display: table-cell !important; }
+	}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+[id="media-query:screen-splash"] { display: none; }
+[id="media-query:screen-splash"][aria-data="on"] { display: flex; }
+
+@media print {
+	* {}
+	}
+
+/**
+ * the end
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */

@@ -1,0 +1,130 @@
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+html, body { font-family: var(--font-family); font-size: var(--font-size); color: rgb(var(--font-color)); background-color: rgb(var(--background-color)); }
+div, span, form, button, input, select, option {}
+button, select, input, textarea {}
+a { color: rgb(var(--font-link-color)); } .font-link { color: rgb(var(--font-link-color)); } .font-pop-link { color: rgb(var(--font-pop-link-color)); }
+a:hover { color: rgb(var(--font-link-focus-color)); } .font-link:hover { color: rgb(var(--font-link-focus-color)); } .font-pop-link:hover { color: rgb(var(--font-pop-link-focus-color)); }
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background-color: rgba(var(--white), 0); }
+::-webkit-scrollbar-thumb { background-color: rgba(var(--black), 0.2); border-radius: 0px; }
+::-webkit-scrollbar-thumb:hover { background-color: rgba(var(--black), 0.3); }
+:disabled { opacity: 0.55; }
+
+[pixel] {}
+[pixel-view] {}
+[icon] { font-size: var(--font-icon); }
+[emoticon] { font-size: var(--font-emoticon); }
+[string] { margin-top: 1px; margin-bottom: -1px; }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+.border-radius { border-radius: var(--border-radius); }
+.border-radius-pop { border-radius: var(--border-radius-pop); }
+.border-radius-round { border-radius: var(--border-radius-round); }
+.border-radius-circle { border-radius: var(--border-radius-circle); }
+
+.box-shadow { box-shadow: 0px 1px 2px 0px rgba(var(--box-shadow), 0.3), 0px 1px 3px 1px rgba(var(--box-shadow), 0.15); }
+.box-pop-shadow { box-shadow: 0px 2px 5px 0px rgba(var(--box-pop-shadow), 0.26), 0px 2px 10px 0px rgba(var(--box-pop-shadow), 0.16); }
+.box-sky-shadow { box-shadow: 0px 2px 5px 0px rgba(var(--box-sky-shadow), 0.26), 0px 2px 10px 0px rgba(var(--box-sky-shadow), 0.16); }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+.border-solid-transparent { border: 1px solid transparent; } .border-bottom-solid-transparent { border-bottom: 1px solid transparent; }
+.border-bold-transparent { border: 2px solid transparent; } .border-bottom-bold-transparent { border-bottom: 2px solid transparent; }
+
+.header-height { height: var(--header-height); }
+
+/*
+[element="button-c"] { color: @gray-sky; }
+[element="button-c"]:hover { color: @blue-sky; border-bottom-color: @green-sky; }
+[element="button-c"] > i {}
+[element="button-c"]:hover > i {}
+[element="button-c"].router-link-active { color: @blue-sky; border-bottom-color: @green-sky; }
+[element="button-c"].router-link-active > i {}
+*/
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+[template="pop"] { display: none; position: fixed; top: 0px; left: 0px; min-width: 100%; min-height: 100vh; background-color: rgba(var(--background-pop-color), 0.75); z-index: 1000; }
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+.transition { transition: all 0.3s ease; }
+.transition-speedy { transition: all 0.1s ease; }
+.transition-fade {} .transition-fade-enter-from { opacity: 0; } .transition-fade-enter-to { opacity: 1; } .transition-fade-enter-active { transition: all 0.3s ease; } .transition-fade-leave-from { opacity: 1; } .transition-fade-leave-to { opacity: 0; } .transition-fade-leave-active { transition: all 0.3s ease; }
+.transition-toast {} .transition-toast-enter-from { opacity: 0; transform: translateY(-60px); } .transition-toast-enter-to { opacity: 1; transform: translateY(0px); } .transition-toast-enter-active { transition: all 0.3s ease; } .transition-toast-leave-from { opacity: 1; } .transition-toast-leave-to { opacity: 0; } .transition-toast-leave-active { transition: all 0.3s ease; }
+.transition-notification {} .transition-notification-enter-from { opacity: 0; transform: translateY(-60px); } .transition-notification-enter-to { opacity: 1; transform: translateY(0px); } .transition-notification-enter-active { transition: all 0.3s ease; } .transition-notification-leave-from { opacity: 1; } .transition-notification-leave-to { opacity: 0; } .transition-notification-leave-active { transition: all 0.3s ease; }
+
+.transition-ease { transition: all 150ms ease-in-out; }
+
+/**
+ * the end
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */

@@ -1,0 +1,35 @@
+{
+    "name": "",
+    "version": "0.0.0",
+    "asset": {
+        "meta": [],
+        "link": [
+            {
+                "rel": "stylesheet",
+                "href": "/theme/perfume/accent.css"
+            },
+            {
+                "rel": "stylesheet",
+                "href": "/theme/perfume/var.css"
+            },
+            {
+                "rel": "stylesheet",
+                "href": "/theme/perfume/style.css"
+            },
+            {
+                "href": "/css/app.820032d3.css",
+                "rel": "stylesheet"
+            }
+        ],
+        "script": [
+            {
+                "defer": "defer",
+                "src": "/js/chunk-vendors.4ae26282.js"
+            },
+            {
+                "defer": "defer",
+                "src": "/js/app.f858076f.js"
+            }
+        ]
+    }
+}

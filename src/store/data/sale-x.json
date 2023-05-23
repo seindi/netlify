@@ -1,0 +1,86 @@
+{
+"2023": {
+	"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": {
+		"03": {
+			"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_investor_status": "complete", "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": {
+				"15": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 45000, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 9, "unit": "box", "price": 70000, "modal": 30000}], "price": 630000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 630000}},
+						{"seller": {"_id": "", "name": "", "pay": 30000, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 6, "unit": "box", "price": 70000, "modal": 30000}], "price": 420000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 420000}}
+						]
+					},
+				"16": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 25000, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 5, "unit": "box", "price": 70000, "modal": 30000}], "price": 350000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 350000}}
+						]
+					},
+				"17": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 45000, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 9, "unit": "box", "price": 70000, "modal": 30000}], "price": 630000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 630000}},
+						{"seller": {"_id": "", "name": "", "pay": 5000, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 1, "unit": "box", "price": 70000, "modal": 30000}], "price": 70000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 70000}},
+						{"seller": {"_id": "", "name": "", "pay": 30000, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 6, "unit": "box", "price": 70000, "modal": 30000}], "price": 420000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 420000}},
+						{"seller": {"_id": "", "name": "", "pay": 5000, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 1, "unit": "box", "price": 70000, "modal": 30000}], "price": 70000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 70000}}
+						]
+					},
+				"18": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 10000, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 2, "unit": "box", "price": 70000, "modal": 30000}], "price": 140000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 140000}}
+						]
+					},
+				"28": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 3, "unit": "box", "price": 70000, "modal": 30000}], "price": 210000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 210000}, "break": null}
+						]
+					},
+				"29": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 1, "unit": "box", "price": 70000, "modal": 30000}], "price": 70000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 70000}, "break": null}
+						]
+					},
+				"31": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": "Al-Haramain"}, "product": [{"_id": "", "name": "ultimate", "quantity": 5, "unit": "box", "price": 65000, "modal": 30000}, {"_id": "", "name": "kasturi", "quantity": 3, "unit": "box", "price": 65000, "modal": 30000}, {"_id": "", "name": "soft", "quantity": 3, "unit": "box", "price": 65000, "modal": 30000}, {"_id": "", "name": "baccarat", "quantity": 5, "unit": "box", "price": 65000, "modal": 30000}], "price": 1040000, "price_at": 65000, "payment": {"type": "", "status": "", "value": 500000}, "break": null},
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 3, "unit": "box", "price": 70000, "modal": 30000}], "price": 210000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 210000}, "break": null},
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 1, "unit": "box", "price": 60000, "modal": 30000}], "price": 60000, "price_at": 60000, "payment": {"type": "", "status": "", "value": 60000}, "break": null}
+						]
+					}
+				}
+			},
+		"04": {
+			"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": {
+				"03": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": "Investor"}, "product": [{"_id": "", "name": "", "quantity": 7, "unit": "box", "price": 60000, "modal": 30000}], "price": 420000, "price_at": 60000, "payment": {"type": "", "status": "", "value": 0}, "break": true},
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": "Investor"}, "product": [{"_id": "", "name": "", "quantity": 7, "unit": "box", "price": 60000, "modal": 30000}], "price": 420000, "price_at": 60000, "payment": {"type": "", "status": "", "value": 0}, "break": true},
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 1, "unit": "box", "price": 70000, "modal": 30000}], "price": 70000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 70000}, "break": true}
+						]
+					},
+				"04": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": "Investor"}, "product": [{"_id": "", "name": "", "quantity": 40, "unit": "box", "price": 60000, "modal": 30000}], "price": 0, "price_at": 0, "payment": {"type": "", "status": "", "value": 0}, "break": true},
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": "Fazila Jaya"}, "product": [{"_id": "", "name": "", "quantity": 4, "unit": "box", "price": 70000, "modal": 30000}], "price": 280000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 280000}, "break": true},
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": "Aneuk Rantoe"}, "product": [{"_id": "", "name": "", "quantity": 2, "unit": "box", "price": 70000, "modal": 30000}], "price": 140000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 140000}, "break": true},
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": "Al-Amir"}, "product": [{"_id": "", "name": "", "quantity": 6, "unit": "box", "price": 70000, "modal": 30000}], "price": 420000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 420000}, "break": true}
+						]
+					},
+				"13": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 4, "unit": "box", "price": 70000, "modal": 30000}], "price": 280000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 280000}, "break": true}
+						]
+					},
+				"14": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 1, "unit": "box", "price": 60000, "modal": 30000}], "price": 60000, "price_at": 60000, "payment": {"type": "", "status": "", "value": 60000}, "break": true},
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": ""}, "product": [{"_id": "", "name": "", "quantity": 11, "unit": "box", "price": 60000, "modal": 30000}], "price": 660000, "price_at": 60000, "payment": {"type": "", "status": "", "value": 660000}, "break": true}
+						]
+					},
+				"15": {
+					"quantity": {"box": 0, "piece": 0}, "amount": 0, "credit": 0, "operational": 0, "modal": 0, "profit": 0, "for_owner": 0, "for_investor": 0, "for_seller": {"pay": 0, "value": 0}, "charge": {"expansion": 0}, "data": [
+						{"seller": {"_id": "", "name": "", "pay": 0, "value": 0}, "store": {"_id": "", "name": "Kios Rusunawa"}, "product": [{"_id": "", "name": "", "quantity": 1, "unit": "box", "price": 70000, "modal": 30000}], "price": 70000, "price_at": 70000, "payment": {"type": "", "status": "", "value": 70000}, "break": true}
+						]
+					}
+				}
+			}
+		}
+	}
+}

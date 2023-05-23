@@ -1,0 +1,70 @@
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+:root {
+	--font-family: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-print: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-code: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-mono: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-title: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-description: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-article: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-quote: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-error: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-warning: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-notice: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-logo: "Dank Mono", "Roboto", "Segoe UI";
+	--font-size: 14px;
+	--font-tiny: 8px;
+	--font-small: 10px;
+	--font-medium: 18px;
+	--font-large: 22px;
+	--font-big: 25px;
+	--font-icon: 125%;
+	--font-emoticon: 100%;
+	}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+:root {
+	--border-radius: 2px;
+	--border-radius-pop: 4px;
+	--border-radius-regular: 10px;
+	--border-radius-round: 100px;
+	--border-radius-circle: 100%;
+	--no-pixel: 0px;
+	--pixel: 1px;
+	--px: 10px;
+	--px-small: 5px;
+	--px-medium: 15px;
+	--px-large: 20px;
+	--px-big: 25px;
+	}
+
+:root {
+	--header-height: 60px;
+	--nav-bar: 60px;
+	--nav-width: 350px;
+	--section-width: 350px;
+	}
+
+/**
+ * the end
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */

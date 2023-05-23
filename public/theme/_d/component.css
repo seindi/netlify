@@ -1,0 +1,4 @@
+[pop-link].pop-active > [pop-up] { opacity: 1; pointer-events: auto; }
+[pop="side"] { left: 100%; top: 0px; }
+[pop="left"] { top: 100%; }
+[pop="right"] { top: 100%; right: 0px; }

@@ -1,0 +1,113 @@
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+:root {
+	--font-family: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-print: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-code: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-title: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-description: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-article: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-quote: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-error: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-warning: "Dank Mono", "Roboto", "Segoe UI";
+	--font-family-notice: "Dank Mono", "Roboto", "Segoe UI";
+	--font-size: 14px;
+	--font-tiny: 8px;
+	--font-small: 10px;
+	--font-medium: 18px;
+	--font-large: 22px;
+	--font-big: 25px;
+	--font-icon: 125%;
+	--font-emoticon: 100%;
+	}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+:root {
+	--background-color: var(--white);
+	--background-pop-color: var(--white);
+	--background-pop-ice-color: var(--white);
+	--background-mono-color: var(--gray-light);
+	--background-mono-light-color: var(--gray-light-ultra);
+	--font-color: 102, 102, 102;
+	--font-link-color: var(--blue-color);
+	--font-link-focus-color: var(--blue-color);
+	--font-link-active-color: var(--blue-color);
+	--font-mono-color: 102, 102, 102;
+	--font-mono-link-color: 102, 102, 102;
+	--font-mono-link-focus-color: 102, 102, 102;
+	--font-mono-link-active-color: 102, 102, 102;
+	--font-pop-color: 102, 102, 102;
+	--font-pop-link-color: 102, 102, 102;
+	--font-pop-link-focus-color: 102, 102, 102;
+	--font-pop-link-active-color: 102, 102, 102;
+	--border-color: 204, 204, 204;
+	--box-shadow: 60, 64, 67;
+	--box-pop-shadow: 11, 20, 26;
+	--box-sky-shadow: 11, 20, 26;
+	}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+:root {
+	--border-radius: 2px;
+	--border-radius-pop: 4px;
+	--border-radius-round: 100px;
+	--border-radius-circle: 100%;
+	--px: 10px;
+	--px-small: 5px;
+	--px-medium: 15px;
+	--px-large: 20px;
+	--px-big: 25px;
+	--header-height: 60px;
+	--nav-width: 350px;
+	--section-width: 350px;
+	}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+[theme="light"] {
+	--accent: transparent;
+	}
+
+[theme="night"] {
+	--accent: transparent;
+	}
+
+/**
+ * the end
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
