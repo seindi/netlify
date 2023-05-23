@@ -20,7 +20,7 @@
         "vue": "3.2.47",
         "vue-router": "4.1.6",
         "vuex": "4.1.0",
-        "vue.min.js": "10.8.0-001"
+        "vue.min.js": "11.1.0-1"
     },
     "devDependencies": {
         "@vue/cli-plugin-router": "5.0.8",
